@@ -21,6 +21,7 @@ do
 			echo $SPOILER
 			echo >> log.txt "$SPOILER"
 		fi
+	sleep 2
 	fi
 done
 
